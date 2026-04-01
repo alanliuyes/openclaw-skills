@@ -1,0 +1,8 @@
+{
+  "name": "skill-creator",
+  "version": "1.0.0",
+  "description": "Guide for creating effective skills",
+  "keywords": ["skills", "creation", "guide"],
+  "author": "OpenClaw",
+  "license": "MIT"
+}
