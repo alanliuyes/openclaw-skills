@@ -1,0 +1,8 @@
+{
+  "name": "ontology",
+  "version": "1.0.0",
+  "description": "Typed knowledge graph for structured agent memory",
+  "author": "OpenClaw",
+  "license": "MIT",
+  "keywords": ["knowledge-graph", "memory", "ontology"]
+}
