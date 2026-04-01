@@ -1,0 +1,8 @@
+{
+  "name": "china-stock-analysis",
+  "version": "1.0.0",
+  "description": "Analyze Chinese stock prices and provide recommendations",
+  "keywords": ["stocks", "china", "finance", "analysis"],
+  "author": "OpenClaw",
+  "license": "MIT"
+}

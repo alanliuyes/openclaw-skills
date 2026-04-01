@@ -1,0 +1,8 @@
+{
+  "name": "market-predictor",
+  "version": "1.0.0",
+  "description": "Multi-asset market prediction and analysis tool",
+  "keywords": ["market", "prediction", "analysis", "finance"],
+  "author": "OpenClaw",
+  "license": "MIT"
+}

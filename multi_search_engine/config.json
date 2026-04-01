@@ -1,0 +1,12 @@
+{
+  "engines": [
+    "google",
+    "bing",
+    "duckduckgo",
+    "baidu",
+    "sogou",
+    "360",
+    "wolframalpha"
+  ],
+  "default_timeout": 30
+}

@@ -1,0 +1,8 @@
+{
+  "name": "multi-search-engine",
+  "version": "1.0.0",
+  "description": "Multi search engine integration with 17 engines",
+  "keywords": ["search", "engines", "web"],
+  "author": "OpenClaw",
+  "license": "MIT"
+}

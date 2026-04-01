@@ -1,0 +1,11 @@
+{
+  "name": "Multi Search Engine",
+  "version": "1.0.0",
+  "description": "Multi search engine integration",
+  "engines": 17,
+  "features": [
+    "web_search",
+    "image_search",
+    "news_search"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "fund-analyzer",
+  "version": "1.0.0",
+  "description": "Fund NAV query and analysis tool",
+  "keywords": ["fund", "finance", "analysis"],
+  "author": "OpenClaw",
+  "license": "MIT"
+}
