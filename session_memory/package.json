@@ -1,0 +1,12 @@
+{
+  "name": "session-memory",
+  "version": "2.0.0",
+  "description": "Persistent memory toolkit for AI agents",
+  "main": "scripts/memory.sh",
+  "scripts": {
+    "test": "echo 'Tests not implemented'"
+  },
+  "keywords": ["memory", "session", "persistence"],
+  "author": "OpenClaw",
+  "license": "MIT"
+}
